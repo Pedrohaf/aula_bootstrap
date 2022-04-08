@@ -38,11 +38,23 @@
     bottom: 0;
     left: 0;
     right: 0;
-    top: 700px;
+    top: 600px;
     text-align: center;
+    margin: 30px;
 }
 
-.img-marketing{
-    height: 30px;
-    color: #777;
+.marketing-image{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 30px;
+
+}
+
+.roda-pe{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 600px;
+    margin-top: 50px;
 }
